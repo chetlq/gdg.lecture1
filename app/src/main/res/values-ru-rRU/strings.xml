@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Лекция 1</string>
+    <string name="message_hint">Введите сообщение</string>
+    <string name="activity">В новом окне</string>
+    <string name="email">Почта</string>
+    <string name="email_subject">Написанное мной сообщение</string>
+    <string name="email_sending_error">Почтовые клиенты не обнаружены</string>
+</resources>
